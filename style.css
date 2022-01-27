@@ -199,9 +199,9 @@ option {
 
 @media screen and (max-width: 750px) {
   .w50 {
-    width: 80%;
-    min-width: 80%;
-    max-width: 80%;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
   }
   #message2 {
     max-height: 35vh;
